@@ -374,7 +374,7 @@ header button {
 }
 h1{
 	font-weight: 900;
-	font-size: 4.5rem;
+	font-size: 5.5rem;
 	/*letter-spacing: .01em;*/
 	margin-bottom: 0;
 }
@@ -588,9 +588,9 @@ h2 {
 	text-align: center;
 	color: #06386d;
 }
-.top_form button {
+/*.top_form button {
 	margin-top: 3rem;
-}
+}*/
 .top_form .form_wrapper {
 	right: -40px;
 }
